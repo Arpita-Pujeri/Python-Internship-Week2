@@ -10,7 +10,6 @@
 #     def smethod(arg):
 #         pass
 
-
 class A:
     x=11
     def __init__(self):
